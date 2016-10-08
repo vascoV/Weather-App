@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">SimpleWeatherApp</string>
+    <string name="title_activity_add_city">AddCity</string>
+    <string name="add_city">London</string>
+    <string name="title_activity_list_of_cities">ListOfCities</string>
+    <string name="search"></string>
+</resources>
